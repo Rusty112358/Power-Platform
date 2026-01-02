@@ -1,6 +1,8 @@
 # Power-Platform: Interactive Business Intelligence Dashboard
 
 Project Overview
+Profits R Us is a fictitious business that I created to illustrate some of my capabilities.
+
 This repository is a work in progress Power BI solution designed to analyze sales data and make recommended changes to the sales margins based upon current sales data. 
 The adjustments allows the business to capture loss revenue through bad margin practices. Other dashboards shows the customers, inventory and sales activities.
 
