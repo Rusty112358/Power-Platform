@@ -26,3 +26,15 @@ Conducted extensive data cleaning, merges, table joins (primary and secondary), 
 
 Machine Learning (ML): 
 Power BI leverages machine learning capabilities to provide further insights of the existing data.
+
+<b>Screen Shots</b>
+
+Summary of the sales data
+<img width="1161" height="621" alt="MainPage" src="https://github.com/user-attachments/assets/a5739733-9f7a-4260-aa3c-b5d75c073361" />
+
+Customer Stats:
+<img width="1167" height="655" alt="CustSales" src="https://github.com/user-attachments/assets/6123ddcf-24a5-4517-8403-658ca01b67a3" />
+
+Margins:
+<img width="1167" height="669" alt="12MoMargins" src="https://github.com/user-attachments/assets/94992182-375a-474a-bec8-3221b92c8bd0" />
+
