@@ -16,7 +16,13 @@ Stored procedures are used to process the raw sales transactions and build out t
 In addition there are data that must be excuded before any analysis can be done.  Return items, 
 staff/employee sales, discounts, warehouse transfers and so on. In addition to these, Business rules are created to handle unique exclusions.
 
+Data Sources:
+In this portfolio, the data starts out as text files and imported into SQL sever.  The data is uses stored proceedure to split the data into fact and dimensional data. MS Access is used to control the process, edit business rules to meet client's requirements and to kick off various stored proceedures. Once the data is "mined" Power BI takes the data and presents it into a meanngful reports that can be used by leadership.
+
 Advanced DAX: Developed custom measures for Time Intelligence (YoY, MoM growth), Current year sales, Customer Lifetime Value, Inventory sales, Top 100, and many others.
 
 Power Query (M): 
-Conducted extensive data cleaning, including [e.g., unpivoting, merging queries, and conditional formatting].
+Conducted extensive data cleaning, merges, table joins (primary and secondary), conditional formatting and any other features that is needed.
+
+Machine Learning (ML): 
+Power BI leverages machine learning capabilities to provide further insights of the existing data.
