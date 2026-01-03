@@ -12,16 +12,16 @@ The reason why it's called a work in progress is that software always changes, n
 As new screens are created the site can be updated.
 
 <b>Technical Highlights</b></br>
-Data Modeling: The source files are text files that are imported into a sql server. 
-The Star Schema is created with 6 fact tables and between 15 dimension tables for optimized performance.
+Data Modeling: The source files are text files that are imported into a SQL server. 
+The Star Schema is created with 6 fact tables and 15 dimension tables for optimized performance.
 Stored procedures are used to process the raw sales transactions and build out the dimensional and fact tables.
-In addition there are data that must be excuded before any analysis can be done.  Return items, 
-staff/employee sales, discounts, warehouse transfers and so on. In addition to these, Business rules are created to handle unique exclusions.
+In addition, there are data that must be excuded before any analysis can be done. Some of the possible excluded items can be return items, 
+staff/employee sales, discounts, warehouse transfers and so on. In addition to these, business rules are created to handle unique exclusions.
 
 Data Sources:
-In this portfolio, the data starts out as text files and imported into SQL sever.  The data is uses stored proceedure to split the data into fact and dimensional data. MS Access is used to control the process, edit business rules to meet client's requirements and to kick off various stored proceedures. Once the data is "mined" Power BI takes the data and presents it into a meanngful reports that can be used by leadership.
+In this portfolio, the data starts out as text files and imported into SQL sever.  The data use stored proceedures to split the data into fact and dimensional data. MS Access is used to control the process, edit business rules to meet client's requirements and to kick off various stored proceedures. Once the data is "mined", Power BI takes the data and presents it into meanngful reports that can be used by leadership.
 
-Advanced DAX: Developed custom measures for Time Intelligence (YoY, MoM growth), Current year sales, Customer Lifetime Value, Inventory sales, Top 100, and many others.
+Advanced DAX: Develops custom measures for time intelligence (YoY, MoM growth), Current Year Sales, Customer Lifetime Value, Inventory Sales, Top 100, and many others.
 
 Power Query (M): 
 Conducted extensive data cleaning, merges, table joins (primary and secondary), conditional formatting and any other features that is needed.
