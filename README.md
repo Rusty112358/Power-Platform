@@ -21,17 +21,17 @@ staff/employee sales, discounts, warehouse transfers and so on. In addition to t
 Data Sources:
 In this portfolio, the data starts out as text files and imported into SQL sever.  The data use stored proceedures to split the data into fact and dimensional data. MS Access is used to control the process, edit business rules to meet client's requirements and to kick off various stored proceedures. Once the data is "mined", Power BI takes the data and presents it into meanngful reports that can be used by leadership.
 
-Advanced DAX: Develops custom measures for time intelligence (YoY, MoM growth), Current Year Sales, Customer Lifetime Value, Inventory Sales, Top 100, and many others.
+Advanced DAX: Develops custom measures for Time Intelligence (YoY, MoM growth), Current Year Sales, Customer Lifetime Value, Inventory Sales, Top 100, and many others.
 
 Power Query (M): 
-Conducted extensive data cleaning, merges, table joins (primary and secondary), conditional formatting and any other features that is needed.
+Conducts extensive data cleaning, merges, table joins (primary and secondary), conditional formatting and any other features that are needed.
 
 Machine Learning (ML): 
 Power BI leverages machine learning capabilities to provide further insights of the existing data.
 
-<b>Screen Shots</b>
+<b>Screen Shots </b>
 
-Summary of the sales data
+Summary of the sales data:
 <img width="1161" height="621" alt="MainPage" src="https://github.com/user-attachments/assets/a5739733-9f7a-4260-aa3c-b5d75c073361" />
 
 Customer Stats:
