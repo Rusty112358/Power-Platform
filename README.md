@@ -1,6 +1,6 @@
 # Power-Platform: Interactive Business Intelligence Dashboard
 
-<b>Project Overview:</b></br>
+<b>Project Overview</b></br>
 Profits R Us is a fictitious business that I created to illustrate some of my capabilities.
 
 This repository is a work in progress. Power BI solution is designed to analyze sales data and make recommended changes to the sales margins based upon current sales data. 
@@ -31,7 +31,7 @@ Power BI leverages machine learning capabilities to provide further insights of 
 
 <b>Screen Shots </b>
 
-Summary of the sales data:
+Sales Data Summary:
 <img width="1161" height="621" alt="MainPage" src="https://github.com/user-attachments/assets/a5739733-9f7a-4260-aa3c-b5d75c073361" />
 
 Customer Stats:
@@ -40,5 +40,5 @@ Customer Stats:
 Margins:
 <img width="1167" height="669" alt="12MoMargins" src="https://github.com/user-attachments/assets/94992182-375a-474a-bec8-3221b92c8bd0" />
 
-Cluster With Machine Learning And Python:
+Cluster With Machine Learning and Python:
 <img width="1345" height="743" alt="image" src="https://github.com/user-attachments/assets/50bef176-ae71-460d-8016-9f7808ecc2c0" />
