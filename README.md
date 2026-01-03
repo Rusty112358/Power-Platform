@@ -4,7 +4,7 @@
 Profits R Us is a fictitious business that I created to illustrate some of my capabilities.
 
 This repository is a work in progress. Power BI solution is designed to analyze sales data and make recommended changes to the sales margins based upon current sales data. 
-The adjustments allow the business to capture loss revenue through improperly adjusted margin. Other dashboards within Power BI show the customers, inventory and sales activities.
+The adjustments allow the business to capture lost revenue through improperly adjusted margins. Other dashboards within Power BI show the customers, inventory and sales activities.
 
 The project transforms raw data into actionable insights through a series of automated ETL processes and intuitive visualizations.
 
@@ -24,7 +24,7 @@ In this portfolio, the data starts out as text files and imported into SQL sever
 Advanced DAX: Develops custom measures for Time Intelligence (YoY, MoM growth), Current Year Sales, Customer Lifetime Value, Inventory Sales, Top 100, and many others.
 
 Power Query (M): 
-Conducts extensive data cleaning, merges, table joins (primary and secondary), conditional formatting and any other features that are needed.
+Conducts data cleansing, merges, table joins (primary and secondary), conditional formatting and any other features that are needed.
 
 Machine Learning (ML): 
 Power BI leverages machine learning capabilities to provide further insights of the existing data.
