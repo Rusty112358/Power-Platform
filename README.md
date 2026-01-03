@@ -3,13 +3,13 @@
 <b>Project Overview:</b></br>
 Profits R Us is a fictitious business that I created to illustrate some of my capabilities.
 
-This repository is a work in progress Power BI solution designed to analyze sales data and make recommended changes to the sales margins based upon current sales data. 
-The adjustments allows the business to capture loss revenue through bad margin practices. Other dashboards shows the customers, inventory and sales activities.
+This repository is a work in progress. Power BI solution is designed to analyze sales data and make recommended changes to the sales margins based upon current sales data. 
+The adjustments allow the business to capture loss revenue through improperly adjusted margin. Other dashboards within Power BI show the customers, inventory and sales activities.
 
 The project transforms raw data into actionable insights through a series of automated ETL processes and intuitive visualizations.
 
-The reason why it's called a work in progress, software always changes, new features are always added such as machine learning, python, R and other tools and features.
-As new screens are created the site will get updated.
+The reason why it's called a work in progress is that software always changes, new features are always added such as machine learning, python, R and other tools and features.
+As new screens are created the site can be updated.
 
 <b>Technical Highlights</b></br>
 Data Modeling: The source files are text files that are imported into a sql server. 
