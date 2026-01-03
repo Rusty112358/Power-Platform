@@ -40,5 +40,5 @@ Customer Stats:
 Margins:
 <img width="1167" height="669" alt="12MoMargins" src="https://github.com/user-attachments/assets/94992182-375a-474a-bec8-3221b92c8bd0" />
 
-Cluster With Power BI And Python:
+Cluster With Machine Learning And Python:
 <img width="1345" height="743" alt="image" src="https://github.com/user-attachments/assets/50bef176-ae71-460d-8016-9f7808ecc2c0" />
