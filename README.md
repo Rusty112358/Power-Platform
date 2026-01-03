@@ -41,4 +41,4 @@ Margins:
 <img width="1167" height="669" alt="12MoMargins" src="https://github.com/user-attachments/assets/94992182-375a-474a-bec8-3221b92c8bd0" />
 
 Cluster With Machine Learning and Python:
-<img width="1345" height="743" alt="image" src="https://github.com/user-attachments/assets/50bef176-ae71-460d-8016-9f7808ecc2c0" />
+<img width="1341" height="756" alt="image" src="https://github.com/user-attachments/assets/7dc162b3-c789-47a1-a677-45cc55bf6b7a" />
