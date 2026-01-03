@@ -8,7 +8,7 @@ The adjustments allow the business to capture lost revenue through improperly ad
 
 The project transforms raw data into actionable insights through a series of automated ETL processes and intuitive visualizations.
 
-The reason why it's called a work in progress is that software always changes, new features are always added such as machine learning, python, R and other tools and features.
+The reason why it's called a work in progress is that software always changes. New features are always added such as machine learning, python, R and other tools and features.
 As new screens are created the site can be updated.
 
 <b>Technical Highlights</b></br>
