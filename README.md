@@ -29,6 +29,12 @@ Conducts data cleansing, merges, table joins (primary and secondary), conditiona
 Machine Learning (ML): 
 Power BI leverages machine learning capabilities to provide further insights of the existing data.
 
+Marketing:
+Leverage Power BI to analyze data that can target marketing clients with special promotions to bring back old customers or keep current customers happy.  
+
+Pricing:
+One thing business never wants to do is lose money on sales. By analyzing costs and sales data the sales team can zero in potential trouble spots.
+
 <b>Screen Shots </b>
 
 Sales Data Summary:
