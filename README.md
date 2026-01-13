@@ -38,10 +38,13 @@ One thing business never wants to do is lose money on sales. By analyzing costs 
 <b>Screen Shots </b>
 
 Sales Data Summary:
-<img width="1161" height="621" alt="MainPage" src="https://github.com/user-attachments/assets/a5739733-9f7a-4260-aa3c-b5d75c073361" />
+<img width="1350" height="756" alt="image" src="https://github.com/user-attachments/assets/8a1e20ff-497e-4ea8-b692-ceb944dc50e6" />
 
 Customer Stats:
-<img width="1167" height="655" alt="CustSales" src="https://github.com/user-attachments/assets/6123ddcf-24a5-4517-8403-658ca01b67a3" />
+<img width="1346" height="753" alt="image" src="https://github.com/user-attachments/assets/880c22a3-e307-41d0-a778-dd48bbf8c2e5" />
+
+
+
 
 Margins:
 <img width="1167" height="669" alt="12MoMargins" src="https://github.com/user-attachments/assets/94992182-375a-474a-bec8-3221b92c8bd0" />
