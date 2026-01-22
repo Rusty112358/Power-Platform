@@ -1,7 +1,11 @@
 # Power-Platform: Interactive Business Intelligence Dashboard
 
 <b>Project Overview</b></br>
-Profits R Us is a fictitious business that I created to illustrate some of my capabilities.
+Profits R Us is a fictitious business that I created to illustrate some of my capabilities. The premis of the company is how to maximize the profits. Every business owners knows there's two ways to increase profits 1) reduce costs 2) manage prices (markups).
+
+The downfall of reducing costs is that a business can only reduce costs to a certain point. Sometimes the only way to reduce costs is rebuild the business from the ground up and in 99% of the cases this will not work. The other method is to manage markups.  Most sales team doesn't have the technical expertise to analyze the data. But will hiring an data analyst be cost benefit? In small to mid size business, no. The possible revenue generated would not offset the cost of the developer.
+
+Profits R Us fills this gap. We look at your existing sales data and make recommended changes to the margins.  Your A customers (who buy's the most) should have the lowest margins because you want to keep them happy and keep them buying from you, not your competitors.  Your D customers should have the higest margins because they buy only few items because they just happened to stop in your store or land on your web page.  Profit R Us looks at this spread and offers suggestions on tweaking your markups to maximize your profits.
 
 This repository is a work in progress. Power BI solution is designed to analyze sales data and make recommended changes to the sales margins based upon current sales data. 
 The adjustments allow the business to capture lost revenue through improperly adjusted margins. Other dashboards within Power BI show the customers, inventory and sales activities.
@@ -42,9 +46,6 @@ Sales Data Summary:
 
 Customer Stats:
 <img width="1346" height="753" alt="image" src="https://github.com/user-attachments/assets/880c22a3-e307-41d0-a778-dd48bbf8c2e5" />
-
-
-
 
 Margins:
 <img width="1167" height="669" alt="12MoMargins" src="https://github.com/user-attachments/assets/94992182-375a-474a-bec8-3221b92c8bd0" />
