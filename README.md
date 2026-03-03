@@ -76,7 +76,7 @@ SQL Server Reporting Services v2022 is a solution that customers deploy on their
 
 
 <b>SQL Server v2022</b></br>
-<b>Sample of complex CTE <br>Top 1000 selling items along with "Also bought these items"</b>
+<b>Sample of complex CTE <br>For the top 1000 items sold and what was the other items that were purchased with those items.</b>
 
 ```
 	WITH Top1000Items as (
