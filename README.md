@@ -67,7 +67,7 @@ One thing business never wants to do is lose money on sales. By analyzing costs 
 SSMS is an integrated environment developed by Microsoft for managing, administering, and configuring all components of SQL infrastructure.
 
 SSRS:
-SQL Server Reporting Services is a solution that customers deploy on their own premises for creating, publishing, and managing reports, then delivering them t othe right users in various ways: Email, mobile device, and web browsers. SSRS can produce simple reports or data extraction for imports to other tools such as Power BI or Excel. For this demo, SSRS is not used because there are far better tools such as Excel, Power BI, Tableu, etc can be used.
+SQL Server Reporting Services v2022 is a solution that customers deploy on their own premises for creating, publishing, and managing reports, then delivering them t othe right users in various ways: Email, mobile device, and web browsers. SSRS can produce simple reports or data extraction for imports to other tools such as Power BI or Excel. For this demo, SSRS is not used because there are far better tools such as Excel, Power BI, Tableu, etc can be used. Below is proof that I can create SSRS reports.
 
 <img width="730" height="654" alt="image" src="https://github.com/user-attachments/assets/37e622e9-2f15-4dcf-acae-de18328b98e6" />
 
