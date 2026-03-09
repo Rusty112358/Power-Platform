@@ -4,7 +4,7 @@
 <h3>Profits R Us: Strategic Margin Optimization & BI Ecosystem</h3>
 <b>Project Overview</b></br>
 Profits R Us is a specialized Proof of Concept (PoC) demonstrating the intersection of data engineering and strategic financial management. While traditional growth strategies focus on cost reduction—which often hits a floor of diminishing returns—this project focuses on the higher-leverage driver: <b>Dynamic Markup Management.</b>
-
+</br>
 <b>Scenario</b></br>
 A customer (Fred) comes in and buys milk all the time.  He knows the price of milk at 5 different stores because he regularly gets it for his family of 6. Every week he goes out and gets 2 or 3 gallons. Every once in a while he'll get a box of donuts. Because he's buying a lot of milk, he's price consious, not so much with donuts. The goal for Fred is to protect the price of milk, but if the price of donut goes up 10 cents, that won't hurt financially because it's a sometimes purchase. 
  
@@ -48,7 +48,13 @@ In addition, there are data that must be excuded before any analysis can be done
 Data Sources:
 The process starts with the client text files that they download from their systems. Only four files are needed, Inventory, Sales, Customer and sales Matrix. F
 
-Advanced DAX: 
+Power BI:
+Data/Graphical tool use to display data in logical and meaningful way for leadership to make informed decisions.
+
+Power BI - Row level security:
+Restrict the viewing of data to the appropriate users.
+
+Power BI - Advanced DAX: 
 Develops custom measures for Time Intelligence (YoY, MoM growth), Current Year Sales, Customer Lifetime Value, Inventory Sales, Top 100, and many others.
 
 Power App:
@@ -65,6 +71,9 @@ Conducts data cleansing, merges, table joins (primary and secondary), conditiona
 
 Machine Learning (ML): 
 Power BI leverages machine learning capabilities to provide further insights of the existing data.
+
+AI Agents:
+An agent is a software program or system designed to perceive its environment, make decisions, and take actions to achieve specific goals autonomously. These agents operate without direct human intervention and can be classified based on their characteristics, such as being reactive or proactive, and operating in fixed or dynamic environments.
 
 Marketing:
 Leverage Power BI to analyze data that can target marketing clients with special promotions to bring back old customers or keep current customers happy.  
