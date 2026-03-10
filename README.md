@@ -28,15 +28,15 @@ Tier A (High Volume): Optimized for retention and competitive defense through le
 
 Tier D (Low Frequency): Optimized for <b>maximum margin capture</b>, identifying "walk-in" traffic where price sensitivity is lower.
 
-360° Operational Dashboards: Beyond pricing, the solution provides total visibility into <b>Inventory Lifecycle</b>, <b>Marketing</b>, customer acquisition trends, and sales velocity.
+360° Operational Dashboards: Beyond pricing, the solution provides total visibility into Inventory Lifecycle, Marketing, customer acquisition trends, and sales velocity.
 
 <b>Vision & Scalability</b></br>
 As a <b>Work in Progress</b>, this project is designed for continuous integration of modern data science tools. Future iterations will expand the tech stack to include:
 
 
-Predictive Modeling: Utilizing <b>Python and R</b> for advanced demand forecasting.
+    Predictive Modeling: Utilizing <b>Python and R</b> for advanced demand forecasting.
 
-Machine Learning: Implementing automated clustering for granular, AI-driven customer segmentation.
+    Machine Learning: Implementing automated clustering for granular, AI-driven customer segmentation.
 
 
 <b>Tools utilized</b></br>
