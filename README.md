@@ -59,7 +59,7 @@ Power App:
 Power App is used to interact with the clients allowing them to adjust criterias such as what to exclude from the sales analysis: employee purchases, department transfers and so on.
 
 Power Automate:
-Power Automate manages the data pipeline from the raw text files from the clients to processing new/updated data into SQL Server.
+Power Automate manages the data pipeline from the clients' raw text files to processing new/updated data into SQL Server.
 
 MS Access:
 Allows the admin/technical staff to run and update the various process by kicking off various stored proceedures individually or batch processes.
