@@ -39,17 +39,17 @@ As a <b>Work in Progress</b>, this project is designed for continuous integratio
     Machine Learning: Implementing automated clustering for granular, AI-driven customer segmentation.
 
 
-<b>Tools utilized</b></br>
+<b>Tools Utilized</b></br>
 Data Modeling: The source files are text files that are imported into a SQL server 2022. 
 The Star Schema is created with 6 fact tables and 15 dimension tables for optimized performance.
 Stored procedures are used to process the raw sales transactions and build out the dimensional and fact tables.
 In addition, there are data that must be excuded before any analysis can be done. Some of the possible excluded items can be return items, staff/employee sales, discounts, warehouse transfers and so on. In addition to these, business rules are created to handle unique exclusions.
 
 Data Sources:
-The process starts with the client text files that they download from their systems. Only four files are needed, Inventory, Sales, Customer and sales Matrix.
+The process starts with the client text files that are download from their systems. Only four files are needed, Inventory, Sales, Customer and Sales Matrix.
 
 Power BI:
-Data/Graphical tool use to display data in logical and meaningful way for leadership to make informed decisions.
+Data/Graphical tool use to display data in logical and meaningful ways for leadership to make informed decisions.
 
 Power BI - Row level security:
 Restrict the viewing of data to the appropriate users.
@@ -58,13 +58,13 @@ Power BI - Advanced DAX:
 Develops custom measures for Time Intelligence (YoY, MoM growth), Current Year Sales, Customer Lifetime Value, Inventory Sales, Top 100, and many others.
 
 Power App:
-Power App is used to interact with the clients allowing them to adjust criterias such as what to exclude from the sales analysis such as employee purchases, department transferes and so on.
+Power App is used to interact with the clients allowing them to adjust criterias such as what to exclude from the sales analysis: employee purchases, department transfers and so on.
 
 Power Automate:
 Power Automate manages the data pipeline from the raw text files from the clients to processing new/updated data into SQL Server.
 
 MS Access:
-Allows the admin/technical staff to run and update the various process by kicking off various stored proceedures individually or batch process.
+Allows the admin/technical staff to run and update the various process by kicking off various stored proceedures individually or batch processes.
 
 Power Query (M): 
 Conducts data cleansing, merges, table joins (primary and secondary), conditional formatting and any other features that are needed.
