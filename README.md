@@ -12,7 +12,7 @@ If Sally buys a lot of donuts for the studio production, she's very conscious of
 
 For someone who walks off the street and goes shopping, as the store owner, you want to give your customer the best prices but not at the cost of your business. For these individuals, they would get the higher price. Once they become your regular customers, you can adjust the prices to "preferred" customers. 
 
-With flat pricing, it's one price for everyone and the store owner is losing money because they don't have the preferred pricing structure. This is why many of the larger retailers do their special pricing for contractors, store owners, gov't or school districts. This is same as the "Loyal" customer pricing with their reward cards. 
+With flat pricing, it's one price for everyone and the store owner is losing money because they don't have the preferred pricing structure. This is why many of the larger retailers do their special pricing for contractors, store owners, gov't or school districts. This is the same as the "Loyal" customer pricing with their reward cards. 
 
 <b>The Business Case</b></br>
 Small to mid-sized enterprises (SMEs) often lack the capital to sustain a full-time data science department, yet they lose significant revenue to "flat" pricing models. Profits R Us bridges this gap by providing high-level analytical oversight without the overhead of a dedicated developer, ensuring the <b>Return on Investment (ROI)</b> remains positive for smaller operations.
