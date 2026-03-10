@@ -62,7 +62,7 @@ Power Automate:
 Power Automate manages the data pipeline from the clients' raw text files to processing new/updated data into SQL Server.
 
 MS Access:
-Allows the admin/technical staff to run and update the various process by kicking off various stored proceedures individually or batch processes.
+Allows the admin/technical staff to run and update the various processes by kicking off various stored proceedures individually or batch processes.
 
 Power Query (M): 
 Conducts data cleansing, merges, table joins (primary and secondary), conditional formatting and any other features that are needed.
@@ -74,16 +74,16 @@ AI Agents:
 An agent is a software program or system designed to perceive its environment, make decisions, and take actions to achieve specific goals autonomously. These agents operate without direct human intervention and can be classified based on their characteristics, such as being reactive or proactive, and operating in fixed or dynamic environments.
 
 Marketing:
-Leverage Power BI to analyze data that can target marketing clients with special promotions to bring back old customers or keep current customers happy.  
+Leverage Power BI to analyze data that can target marketing clients with special promotions to bring back old customers and keep current customers happy.  
 
 Pricing:
-One thing business never wants to do is lose money on sales. By analyzing costs and sales data the sales team can zero in potential trouble spots.
+One thing businesses never wants to do is lose money on sales. By analyzing costs and sales data, the sales team can zero-in potential trouble spots.
 
 <b>SQL Server SSMS v22</b></br>
 SSMS is an integrated environment developed by Microsoft for managing, administering, and configuring all components of SQL infrastructure.
 
 SSRS:
-SQL Server Reporting Services v2022 is a solution that customers deploy on their own premises for creating, publishing, and managing reports, then delivering them t othe right users in various ways: Email, mobile device, and web browsers. SSRS can produce simple reports or data extraction for imports to other tools such as Power BI or Excel. For this demo, SSRS is not used because there are far better tools such as Excel, Power BI, Tableu, etc can be used. Below is proof that I can create SSRS reports.
+SQL Server Reporting Services v2022 is a solution that customers deploy on their own premises for creating, publishing, and managing reports, then delivering them to the right users in various ways: Email, mobile device, and web browsers. SSRS can produce simple reports or data extraction for imports to other tools such as Power BI or Excel. For this demo, SSRS is not used because there are far better tools such as Excel, Power BI, Tableau, etc can be used. Below are samples SSRS reports.
 
 <img width="730" height="654" alt="image" src="https://github.com/user-attachments/assets/37e622e9-2f15-4dcf-acae-de18328b98e6" />
 
@@ -92,7 +92,7 @@ SQL Server Reporting Services v2022 is a solution that customers deploy on their
 
 
 <b>SQL Server v2022</b></br>
-<b>Sample of complex CTE <br>For the top 1000 items sold and what was the other items that were purchased with those items.</b>
+<b>Sample of complex CTE <br>For the top 1000 items sold and what were the other items that were purchased with those items.</b>
 
 ```
 	WITH Top1000Items as (
