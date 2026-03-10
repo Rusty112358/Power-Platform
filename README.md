@@ -33,11 +33,9 @@ Tier D (Low Frequency): Optimized for <b>maximum margin capture</b>, identifying
 <b>Vision & Scalability</b></br>
 As a <b>Work in Progress</b>, this project is designed for continuous integration of modern data science tools. Future iterations will expand the tech stack to include:
 
-
     Predictive Modeling: Utilizing <b>Python and R</b> for advanced demand forecasting.
 
     Machine Learning: Implementing automated clustering for granular, AI-driven customer segmentation.
-
 
 <b>Tools Utilized</b></br>
 Data Modeling: The source files are text files that are imported into a SQL server 2022. 
