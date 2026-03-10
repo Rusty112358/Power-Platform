@@ -3,16 +3,16 @@
 
 <h3>Profits R Us: Strategic Margin Optimization & BI Ecosystem</h3>
 <b>Project Overview</b></br>
-Profits R Us is a specialized Proof of Concept (PoC) demonstrating the intersection of data engineering and strategic financial management. While traditional growth strategies focus on cost reduction—which often hits a floor of diminishing returns—this project focuses on the higher-leverage driver: <b>Dynamic Markup Management.</b>
+Profits R Us is a specialized Proof of Concept (PoC) demonstrating the intersection of data engineering and strategic financial management. While traditional growth strategies focus on cost reduction—which often hits a floor of diminishing returns—this project focuses on the higher-leverage driver: <b>Dynamic Markup Management</b>
 </br>
 <b>Scenario</b></br>
-A customer (Fred) comes in and buys milk all the time.  He knows the price of milk at 5 different stores because he regularly gets it for his family of 6. Every week he goes out and gets 2 or 3 gallons. Every once in a while he'll get a box of donuts. Because he's buying a lot of milk, he's price consious, not so much with donuts. The goal for Fred is to protect the price of milk, but if the price of donut goes up 10 cents, that won't hurt financially because it's a sometimes purchase. 
+A customer (Fred) comes in and buys milk all the time.  He knows the price of milk at 5 different stores because he regularly gets it for his family of 6. Every week he goes out and gets 2 or 3 gallons. Every once in a while he'll get a box of donuts. Because he's buying a lot of milk, he's price consious, not so much with donuts. The goal for Fred is to protect the price of milk, but if the price of donuts goes up 10 cents, that won't hurt financially because it's a sometimes purchase. 
  
-If Sally buys a lot of donuts for the studio production, she's very consious of the price and if it goes up a penny, she'll be shopping somewhere else.  So the price of donuts needs to be protected for her.  Whereas if the price goes up by 10 cent on milk, that ok because she rarely buys the milk. The odds of her going price shopping for milk is very low. It's a lot more convient to buy the milk there at the same time vs going to another store which will take more time just to save a few pennies.
+If Sally buys a lot of donuts for the studio production, she's very consious of the price and if it goes up a penny, she'll be shopping somewhere else.  So the price of donuts needs to be protected for her.  Whereas, if the price goes up by 10 cents on milk, that's ok because she rarely buys the milk. The odds of her going price shopping for milk is very low. It's a lot more convient to buy the milk there at the same time vs going to another store which will take more time just to save a few pennies.
 
 For someone who walks off the street and goes shopping, as the store owner, you want to give your customer the best prices but not at the cost of your business. For these individuals, they would get the higher price. Once they become your regular customers, you can adjust the prices to "preferred" customers. 
 
-With flat pricing, it's one price for everyone and the store owner is losing money because they don't have the preferred pricing structure. This is what many of the larger retailers do with special pricing for contractors, store owners, gov't or school districts. 
+With flat pricing, it's one price for everyone and the store owner is losing money because they don't have the preferred pricing structure. This is why many of the larger retailers do their special pricing for contractors, store owners, gov't or school districts. This is same as the "Loyal" customer pricing with their reward cards. 
 
 <b>The Business Case</b></br>
 Small to mid-sized enterprises (SMEs) often lack the capital to sustain a full-time data science department, yet they lose significant revenue to "flat" pricing models. Profits R Us bridges this gap by providing high-level analytical oversight without the overhead of a dedicated developer, ensuring the <b>Return on Investment (ROI)</b> remains positive for smaller operations.
@@ -46,7 +46,7 @@ Stored procedures are used to process the raw sales transactions and build out t
 In addition, there are data that must be excuded before any analysis can be done. Some of the possible excluded items can be return items, staff/employee sales, discounts, warehouse transfers and so on. In addition to these, business rules are created to handle unique exclusions.
 
 Data Sources:
-The process starts with the client text files that they download from their systems. Only four files are needed, Inventory, Sales, Customer and sales Matrix. F
+The process starts with the client text files that they download from their systems. Only four files are needed, Inventory, Sales, Customer and sales Matrix.
 
 Power BI:
 Data/Graphical tool use to display data in logical and meaningful way for leadership to make informed decisions.
