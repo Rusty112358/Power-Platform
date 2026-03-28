@@ -1,6 +1,7 @@
 # Power-Platform: Interactive Business Intelligence Dashboard
 
 
+<a href="https://htmlpreview.github.io/?https://github.com/Rusty112358/Power-Platform/blob/main/profits-r-us-sales-deck.html"> Sample Sales Deck</a>
 <h3>Profits R Us: Strategic Margin Optimization & BI Ecosystem</h3>
 <b>Project Overview</b></br>
 Profits R Us is a specialized Proof of Concept (PoC) demonstrating the intersection of data engineering and strategic financial management. While traditional growth strategies focus on cost reduction—which often hits a floor of diminishing returns—this project focuses on the higher-leverage driver: <b>Dynamic Markup Management</b>
