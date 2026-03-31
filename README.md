@@ -11,7 +11,7 @@ A customer (Fred) comes in and buys milk all the time.  He knows the price of mi
  
 If Sally buys a lot of donuts for the studio production, she's very conscious of the price and if it goes up a penny, she'll be shopping somewhere else.  So the price of donuts needs to be protected for her.  Whereas, if the price goes up by 10 cents on milk, that's ok because she rarely buys the milk. The odds of her going price shopping for milk is very low. It's a lot more convient to buy the milk there at the same time vs going to another store which will take more time just to save a few pennies.
 
-For someone who walks off the street and goes shopping, as the store owner, you want to give your customer the best prices but not at the cost of your business. For these individuals, they would get the higher price. Once they become your regular customers, you can adjust the prices to "preferred" customers. 
+For someone who walks off the street and goes shopping, as the store owner, you want to give your customer the best prices but not at the cost of your business. For these individuals, they would get the higher price, maybe 25 cents higher than your preferred pricing. Once they become your regular customers, you can adjust the prices to "preferred" customers. 
 
 With flat pricing, it's one price for everyone and the store owner is losing money because they don't have the preferred pricing structure. This is why many of the larger retailers do their special pricing for contractors, store owners, gov't or school districts. This is the same as the "Loyal" customer pricing with their reward cards. 
 
