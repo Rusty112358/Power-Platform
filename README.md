@@ -1,7 +1,7 @@
 # Power-Platform: Interactive Business Intelligence Dashboard
 
 
-<a href="https://htmlpreview.github.io/?https://github.com/Rusty112358/Power-Platform/blob/main/profits-r-us-sales-deck_v2.html"> Sample Sales Deck</a>
+<a href="https://htmlpreview.github.io/?https://github.com/Rusty112358/Power-Platform/blob/main/analyticlynx_sales_deck_v2.html"> Sample Sales Deck</a>
 
 ## Profits R Us — Strategic Margin Optimization & BI Ecosystem
 
